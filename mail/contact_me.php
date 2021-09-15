@@ -1,6 +1,4 @@
 <?php
-
-header('Access-Control-Allow-Credentials:true',true);
 // Check for empty fields
 if(empty($_POST['name'])      ||
    empty($_POST['email'])     ||     ||
