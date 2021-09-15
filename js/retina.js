@@ -9,9 +9,7 @@
  */
 'use strict';
 
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
+
 /*
  * Determine whether or not `window` is available.
  */
